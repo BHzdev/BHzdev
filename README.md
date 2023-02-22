@@ -19,7 +19,8 @@
 
 <div>
   <a href="github.com/BHzdev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BHzdev&show_icons=true&theme=midnight-purple#gh-dark-mode-only)]"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHzdev&layout=compact&show_icons=true&theme=midnight-purple#gh-dark-mode-only"/>
+          <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BHzdev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHzdev&layout=compact&langs_count=7&theme=midnight-purple"/>
   </a>
 </div>
+
