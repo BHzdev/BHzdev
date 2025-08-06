@@ -1,5 +1,5 @@
 # 💫 console.log("Hello World");
-🔭 UX/UI Designer & Front-End Developer<br>🌱 Studying Back-End<br>💬 Working as a Freelancer
+🔭 Front-End Developer &<br>🌱 UX/UI Designer<br>
 
 
 # 💻 Tech Stack:
