@@ -57,6 +57,7 @@ Atuo na criação de interfaces modernas, intuitivas e performáticas, aliando d
 - 🚀 **SEO & Melhoria Contínua**: Otimização técnica para motores de busca e foco constante na experiência do usuário.
 
 **Projeto iFood Challenge | FIAP**
+(Projeto Acadêmico em colaboração com o iFood)
 - 🏆 Liderança de equipe e arquitetura de um Backoffice Financeiro B2B.
 - 📱 Foco total em UX para simplificar a gestão de pedidos e extratos.
 
