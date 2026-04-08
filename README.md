@@ -1,12 +1,85 @@
-# 💫 console.log("Hello World");
-🔭 Front-End Developer &<br>🌱 UX/UI Designer<br>
+<div align="center">
 
+# 🚀 Bruno Henrique
+### **Full Stack Developer & UX/UI Designer**
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BHzdev&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Disponível para Trabalho](https://img.shields.io/badge/Status-Disponível%20para%20Trabalho-brightgreen?style=for-the-badge&logo=gitbook&logoColor=white)](mailto:contatobrunohenriquedev@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brunohenriquedev/)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=BHzdev&icon=1&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ⚡ Sobre Mim
+Sou um **Desenvolvedor Web com forte expertise em Front-end e UX/UI**, graduado em **Análise e Desenvolvimento de Sistemas pela FIAP** e com formação técnica em Desenvolvimento de Sistemas pelo Senac.
+
+Atuo na criação de interfaces modernas, intuitivas e performáticas, aliando design centrado no usuário, boas práticas de desenvolvimento e foco em resultados de negócio. Possuo sólida experiência em projetos web variados, integração com APIs e colaboração multidisciplinar em ambiente de agência.
+
+**🟢 Disponível para novos desafios, parcerias ou oportunidades CLT/PJ.**
+
+---
+
+### 🛠️ Toolbox Profissional
+
+**Frontend**
+<br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Tailwind](https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
+
+**Backend & Data**
+<br>
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+
+**Design & Prototipagem**
+<br>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)
+
+---
+
+### 💼 Experiência & Projetos
+
+**Desenvolvedor WEB | Agência Hydrus**
+*(Setembro de 2025 – Atual)*
+- 💻 **Desenvolvimento Front-end**: Foco em alta performance, responsividade e acessibilidade em sites institucionais e sistemas web.
+- 🎨 **Evolução de UI/UX**: Criação de interfaces priorizando usabilidade, conversão e consistência visual.
+- 🔗 **Sistemas & APIs**: Integração robusta com APIs e colaboração direta em ambientes multidisciplinares.
+- 🚀 **SEO & Melhoria Contínua**: Otimização técnica para motores de busca e foco constante na experiência do usuário.
+
+**Projeto iFood Challenge | FIAP**
+- 🏆 Liderança de equipe e arquitetura de um Backoffice Financeiro B2B.
+- 📱 Foco total em UX para simplificar a gestão de pedidos e extratos.
+
+---
+
+### 🎓 Formação Acadêmica
+
+- 🎓 **Análise e Desenvolvimento de Sistemas** | FIAP (2024 - 2025)
+- 📜 **Desenvolvimento de Sistemas (Técnico)** | Senac SP (2021 - 2023)
+
+**🥇 Certificações GOLD (FIAP):**
+*Web Design 2.0 • Prototipagem Web • Aplicações Móveis • IA & IoT*
+
+---
+
+### 📫 Conecte-se comigo!
+
+Para propostas, parcerias ou apenas um café virtual:
+<br>
+**[E-mail](mailto:contatobrunohenriquedev@hotmail.com)** • **[LinkedIn](https://www.linkedin.com/in/brunohenriquedev/)**
+
+---
+
+*“The only way to do great work is to love what you do.”*
+
+</div>
