@@ -46,30 +46,36 @@ Atuo na criação de interfaces modernas, intuitivas e performáticas, aliando d
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)
 
 ---
+<div align="center">
 
 ### 💼 Experiência & Projetos
 
-**Desenvolvedor WEB | Agência Hydrus**
-*(Setembro de 2025 – Atual)*
-- 💻 **Desenvolvimento Front-end**: Foco em alta performance, responsividade e acessibilidade em sites institucionais e sistemas web.
-- 🎨 **Evolução de UI/UX**: Criação de interfaces priorizando usabilidade, conversão e consistência visual.
-- 🔗 **Sistemas & APIs**: Integração robusta com APIs e colaboração direta em ambientes multidisciplinares.
-- 🚀 **SEO & Melhoria Contínua**: Otimização técnica para motores de busca e foco constante na experiência do usuário.
+**Desenvolvedor WEB | Agência Hydrus** *(Setembro de 2025 – Atual)*
 
-**Projeto iFood Challenge | FIAP**
-(Projeto Acadêmico em colaboração com o iFood)
-- 🏆 Liderança de equipe e arquitetura de um Backoffice Financeiro B2B.
-- 📱 Foco total em UX para simplificar a gestão de pedidos e extratos.
+💻 **Desenvolvimento Front-end**: Foco em alta performance, responsividade e acessibilidade em sites institucionais e sistemas web.  
+🎨 **Evolução de UI/UX**: Criação de interfaces priorizando usabilidade, conversão e consistência visual.  
+🔗 **Sistemas & APIs**: Integração robusta com APIs e colaboração direta em ambientes multidisciplinares.  
+🚀 **SEO & Melhoria Contínua**: Otimização técnica para motores de busca e foco constante na experiência do usuário.
+
+<br>
+
+**Projeto iFood Challenge | FIAP** *(Projeto Acadêmico em colaboração com o iFood)*
+
+🏆 Liderança de equipe e arquitetura de um Backoffice Financeiro B2B.  
+📱 Foco total em UX para simplificar a gestão de pedidos e extratos.
 
 ---
 
 ### 🎓 Formação Acadêmica
 
-- 🎓 **Análise e Desenvolvimento de Sistemas** | FIAP (2024 - 2025)
-- 📜 **Desenvolvimento de Sistemas (Técnico)** | Senac SP (2021 - 2023)
+🎓 **Análise e Desenvolvimento de Sistemas** | FIAP (2024 - 2025)  
+📜 **Desenvolvimento de Sistemas (Técnico)** | Senac SP (2021 - 2023)
 
-**🥇 Certificações GOLD (FIAP):**
-*Web Design 2.0 • Prototipagem Web • Aplicações Móveis • IA & IoT*
+<br>
+
+**🥇 Certificações GOLD (FIAP):** *Web Design 2.0 • Prototipagem Web • Aplicações Móveis • IA & IoT*
+
+</div>
 
 ---
 
